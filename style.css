@@ -36,6 +36,10 @@ td {
     font-weight: 700;
 }
 
+td:hover {
+    background-color: hsl(328, 100%, 75%);
+}
+
 #playagain {
     font-size: 1.5rem;
     padding: 0.5rem;
