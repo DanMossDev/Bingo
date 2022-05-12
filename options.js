@@ -34,5 +34,7 @@ export const OPTIONS = [
     'Shrek rave',
     'Caits uses !PokeCatch',
     'Caits pics up her mic to get real',
-    'Clap clap clap'
+    'Clap clap clap',
+    'Limmy reference',
+    'Shrek Rave'
 ]
